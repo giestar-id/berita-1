@@ -58,12 +58,6 @@ module.exports = () => {
                 <div>
                     <h4 class="text-lg font-bold text-white mb-6 uppercase tracking-wider">Berlangganan Newsletter</h4>
                     <p class="text-sm mb-4">Dapatkan update berita pilihan langsung ke email Anda setiap hari.</p>
-                    <form class="flex flex-col space-y-3">
-                        <input type="email" placeholder="Alamat email Anda" class="bg-gray-800 text-white rounded-md px-4 py-2 border border-gray-700 focus:outline-none focus:border-primary focus:ring-1 focus:ring-primary text-sm w-full">
-                        <button type="button" class="bg-primary hover:bg-red-700 text-white font-medium rounded-md px-4 py-3 transition duration-300 w-full uppercase tracking-wider text-xs shadow-md">
-                            Daftar Sekarang
-                        </button>
-                    </form>
                 </div>
             </div>
 

@@ -13,14 +13,7 @@ module.exports = () => {
                     <a href="/contact" class="hover:text-primary transition">Redaksi</a>
                     <a href="#" class="hover:text-primary transition">Pedoman Media Siber</a>
                 </div>
-                <div class="flex items-center space-x-3">
-                    <a href="#" class="hover:text-blue-600 transition"><span class="material-symbols-outlined text-sm">facebook</span></a>
-                    <a href="#" class="hover:text-blue-400 transition"><span class="material-symbols-outlined text-sm">alternate_email</span></a>
-                    <button class="flex items-center hover:text-primary transition">
-                        <span class="material-symbols-outlined text-[16px]">light_mode</span>
-                    </button>
-                    <a href="#" class="text-primary font-medium hover:underline">Login / Register</a>
-                </div>
+                
             </div>
         </div>
 
